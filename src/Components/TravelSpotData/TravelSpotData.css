@@ -1,0 +1,27 @@
+.spot-name{
+    position: absolute;
+    bottom: 0px;
+    color: #fff;
+    margin-left: 15px;
+}
+.spot-img{
+    border-radius: 14px;
+}
+.spot-img img:hover{
+    border: 4px solid #FBBC04;
+    transition: .3s ease;
+    width:212px;
+    height: 342px;
+    object-fit: cover;
+}
+.spot-img img{
+    width:220px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+.travel-card{
+    margin-left: 30px;
+    position: relative;
+    height: 350px;
+}

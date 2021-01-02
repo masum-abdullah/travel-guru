@@ -1,0 +1,27 @@
+.Nav-option{
+    margin-left: auto;
+}
+a{
+    text-decoration: none;
+}
+.Nav-option ul li a{
+    color: #fff;
+}
+.Nav-option ul li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 40px;
+    padding: 10px;
+    
+}
+.Nav-option ul li:last-child a{
+    padding: 10px 25px;
+    background: #F9A21E;
+    border-radius: 5px;
+    color: #000;
+}
+.Nav-option ul li:last-child a:hover{
+    transition: .5s ease ;
+    background: #DE8806;
+}

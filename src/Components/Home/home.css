@@ -1,0 +1,25 @@
+.spot-section{
+    display: flex;
+    margin-top: 50px;
+}
+.spot-description h1, .spot-description p{
+    color: #fff;
+}
+.booking-button:hover{
+    background:  #DE8806;
+    transition: .5s ease;
+}
+.spot-description{
+    width: 45%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.travel-spots{
+    display: flex;
+}
+.booking-button{
+    background: #F9A51A;
+    padding: 12px 29px;
+    border-radius: 5px;
+    border: none;
+}
